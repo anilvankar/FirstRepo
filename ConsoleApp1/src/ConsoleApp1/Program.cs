@@ -13,6 +13,9 @@ namespace ConsoleApp1
             Console.Read();
 
             Console.WriteLine("Changes in brach 1.0");
+
+            Console.WriteLine("Changes in brach 1.1");
+
         }
     }
 }
