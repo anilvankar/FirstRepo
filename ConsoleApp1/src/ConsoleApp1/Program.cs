@@ -13,6 +13,8 @@ namespace ConsoleApp1
             Console.Read();
 
             Console.WriteLine("Changes in brach 1.1");
+            Console.WriteLine("Changes in Master branch");
+
 
         }
     }
